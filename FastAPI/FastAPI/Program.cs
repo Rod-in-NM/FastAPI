@@ -1,4 +1,9 @@
+using FastEndpoints;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Add FastEndpoints
+builder.Services.AddFastEndpoints();
 
 // Add services to the container.
 
