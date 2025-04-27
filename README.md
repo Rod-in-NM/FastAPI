@@ -7,6 +7,10 @@ I'm following along with this tutorial from Infoworld, on [How to use FastEndpoi
 ## Postman
 The tutorial specifically denied enabling Swagger, so you have to use Postman for testing.
 
+## .NET
+
+This was written using .NET 8.
+
 ## Summary
 From the tutorial:
-> FastEndpoints is a free third-party alternative to ASP.NET Core�s built-in legacy controllers and minimal APIs. FastEndpoints combines performance on a par with minimal APIs and a structured approach to handling HTTP requests and responses. I�ll demonstrate how we can implement security, versioning, validation, dependency injection, caching, and rate limiting with FastEndpoints in future posts here.
+> FastEndpoints is a free third-party alternative to ASP.NET Core's built-in legacy controllers and minimal APIs. FastEndpoints combines performance on a par with minimal APIs and a structured approach to handling HTTP requests and responses. I'll demonstrate how we can implement security, versioning, validation, dependency injection, caching, and rate limiting with FastEndpoints in future posts here.
